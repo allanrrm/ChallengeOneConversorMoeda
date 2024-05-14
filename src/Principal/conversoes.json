@@ -1,0 +1,30 @@
+[
+  {
+    "moedaBase": "BRL",
+    "moedaConversao": "USD"
+  },
+  {
+    "moedaBase": "USD",
+    "moedaConversao": "BRL"
+  },
+  {
+    "moedaBase": "EUR",
+    "moedaConversao": "BRL"
+  },
+  {
+    "moedaBase": "ANG",
+    "moedaConversao": "BRL"
+  },
+  {
+    "moedaBase": "EUR",
+    "moedaConversao": "USD"
+  },
+  {
+    "moedaBase": "AZN",
+    "moedaConversao": "BRL"
+  },
+  {
+    "moedaBase": "BRL",
+    "moedaConversao": "ARS"
+  }
+]
