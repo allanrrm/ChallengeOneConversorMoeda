@@ -1,6 +1,22 @@
 [
   {
     "moedaBase": "BRL",
+    "moedaConversao": "ARS"
+  },
+  {
+    "moedaBase": "BRL",
+    "moedaConversao": "BOB"
+  },
+  {
+    "moedaBase": "BRL",
+    "moedaConversao": "CLP"
+  },
+  {
+    "moedaBase": "BRL",
+    "moedaConversao": "COP"
+  },
+  {
+    "moedaBase": "BRL",
     "moedaConversao": "USD"
   },
   {
@@ -10,21 +26,5 @@
   {
     "moedaBase": "EUR",
     "moedaConversao": "BRL"
-  },
-  {
-    "moedaBase": "ANG",
-    "moedaConversao": "BRL"
-  },
-  {
-    "moedaBase": "EUR",
-    "moedaConversao": "USD"
-  },
-  {
-    "moedaBase": "AZN",
-    "moedaConversao": "BRL"
-  },
-  {
-    "moedaBase": "BRL",
-    "moedaConversao": "ARS"
   }
 ]
